@@ -1,0 +1,53 @@
+.mouse:hover{
+    background-color: #094db1;
+}
+
+.mouse {
+    transition: 0.3s;
+}
+
+nav{
+    padding: 0 !important;
+}
+
+body {
+    background-color: #F2F3F8 !important;
+}
+
+.bg-white, .border-end {
+    background-color: #F2F3F8 !important;
+
+}
+
+.shadowstyle {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 0 !important;
+    height:100% !important;
+}
+
+#sidebar-wrapper {
+    height:100vh!important;
+}
+
+.list-group-item {
+    padding: 16px !important;
+}
+
+.pad {
+    margin: 16px !important;
+    background-color: white !important;
+    width: 100% !important;
+    height: fit-content !important;
+}
+
+
+html {
+    overflow-x:hidden;
+}
+
+.files{
+    margin-top: 1vh;
+}
+
+
+
